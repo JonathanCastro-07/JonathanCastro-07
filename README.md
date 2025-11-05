@@ -70,6 +70,8 @@ Estou sempre em busca de oportunidades desafiadoras que me permitam aplicar meus
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
       </td>
       <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original-wordmark.svg" width="50" height="50" alt="react logo" /><br>React
+        <br><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/hadoop/hadoop-original-wordmark.svg" width="50" height="50" alt="hadoop logo" /><br>Hadoop
         <br><br>
         <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" width="50" height="50" alt="powerbi logo" /><br>Power Bi
