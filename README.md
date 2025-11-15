@@ -64,8 +64,10 @@ Estou sempre em busca de oportunidades desafiadoras que me permitam aplicar meus
         <br><br>
       </td>
       <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50" alt="firebase logo" /><br>Firebase 
+        <br><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="mysql logo" /><br>Mysql
-      </td>
+      </td>       
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
       </td>
