@@ -1,3 +1,6 @@
+🌐 **Idioma | Language**  
+[🇧🇷 Português](README.md) • [🇺🇸 English](README.en.md)
+
 # 🖥☕🌍 Jonathan Castro - Desenvolvedor Front-end
 
 🚀 Apaixonado por tecnologia e desenvolvimento de software  
@@ -8,17 +11,16 @@
 
 ### 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente curso **Especialização em Ciência de Dados e Inteligência de Negócios**. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente curso uma **Especialização em Ciência de Dados e Inteligência de Negócios**.
 
-Possuo uma formação anterior em **Engenharia Civil**, mas a minha paixão por tecnologia me levou a fazer uma transição de carreira para a área de **Desenvolvimento de Software**. Atualmente, estou focado no **front-end**, 
-mas sempre buscando expandir meus conhecimentos e me tornar um desenvolvedor **full stack**. 
+Minha formação inicial é em **Engenharia Civil**, mas a paixão por tecnologia me levou a fazer uma transição de carreira para a área de **Desenvolvimento de Software**. Hoje estou focado no **front-end**, porém sempre expandindo meus conhecimentos para me tornar um desenvolvedor **full stack**.
 
-Minha jornada com a programação começou com o aprendizado da primeira linguagem, o **C++**, também conhecido como o "portugol". Desde então, a paixão pela área só cresceu, e nunca me distanciei do mundo da tecnologia. 
+Minha jornada na programação começou com a primeira linguagem que aprendi, o **C++**, também conhecido como “portugol”. Desde então, minha paixão pela área só cresceu e nunca me afastei do mundo da tecnologia.
 
-Tenho experiência em diversas tecnologias e linguagens, abrangendo desde **análise de dados** até o desenvolvimento de sistemas completos. 
+Possuo experiência em diversas tecnologias e linguagens que vão desde **análise de dados** até o desenvolvimento de **sistemas completos**.
 
-Estou sempre em busca de oportunidades desafiadoras que me permitam aplicar meus conhecimentos em projetos inovadores. Valorizo ambientes que incentivem o **aprendizado contínuo**, o **trabalho em equipe** e o desenvolvimento de novas habilidades. Estou sempre disposto a explorar novas **linguagens**, **ferramentas** e **metodologias** que ampliem meu **repertório técnico e profissional**.
-
+Estou sempre em busca de oportunidades desafiadoras que me permitam aplicar meus conhecimentos em projetos inovadores. Valorizo ambientes que incentivem o **aprendizado contínuo**, o **trabalho em equipe** e o desenvolvimento de novas habilidades.  
+Sou movido pelo desejo de explorar novas **linguagens**, **ferramentas** e **metodologias** que ampliem meu **repertório técnico e profissional**.
 
 ---
 
@@ -55,18 +57,17 @@ Estou sempre em busca de oportunidades desafiadoras que me permitam aplicar meus
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" alt="Bootstrap logo" /><br>Bootstrap
         <br><br>
-         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" alt="tailwindcss logo" /><br>Tailwindcss            
+         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" alt="tailwindcss logo" /><br>TailwindCSS            
       </td>      
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode logo" /><br>VSCode
         <br><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="jupyter logo" /><br>Jupyter
-        <br><br>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50" alt="firebase logo" /><br>Firebase 
         <br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="mysql logo" /><br>Mysql
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="mysql logo" /><br>MySQL
       </td>       
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
@@ -76,14 +77,14 @@ Estou sempre em busca de oportunidades desafiadoras que me permitam aplicar meus
         <br><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/hadoop/hadoop-original-wordmark.svg" width="50" height="50" alt="hadoop logo" /><br>Hadoop
         <br><br>
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" width="50" height="50" alt="powerbi logo" /><br>Power Bi
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" width="50" height="50" alt="powerbi logo" /><br>Power BI
       </td>
       <td align="center"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="mongodb Logo" /><br>Mongodb
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="mongodb Logo" /><br>MongoDB
         <br><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="nodejs Logo" /><br>Nodejs
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="nodejs Logo" /><br>Node.js
         <br><br> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Nextjs Logo" /><br>Nextjs
+        <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Nextjs Logo" /><br>Next.js
         <br><br>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" /><br>Python
       </td>   
@@ -93,7 +94,6 @@ Estou sempre em busca de oportunidades desafiadoras que me permitam aplicar meus
 
 </div>
 
-
 ---
 
 ### 📫 Vamos nos conectar?
@@ -102,4 +102,3 @@ Estou sempre em busca de oportunidades desafiadoras que me permitam aplicar meus
 📬 [Me envie um e-mail](mailto:jonathancastrof1@gmail.com)
 
 ---
-
