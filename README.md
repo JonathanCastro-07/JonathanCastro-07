@@ -1,5 +1,6 @@
 🌐 **Idioma | Language**  
-[🇧🇷 Português](README.md) • [🇺🇸 English](README.en.md)
+[🇧🇷 Português](README.md) • [🇺🇸 English](README.en.md
+/README.en.md)
 
 # 🖥☕🌍 Jonathan Castro - Desenvolvedor Front-end
 
