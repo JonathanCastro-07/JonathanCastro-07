@@ -70,6 +70,8 @@ Sou movido pelo desejo de explorar novas **linguagens**, **ferramentas** e **met
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50" alt="firebase logo" /><br>Firebase 
         <br><br>
         <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="mysql logo" /><br>MySQL
+       <br><br>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="50" height="50" alt="supabase logo" /><br>Supabase
       </td>       
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub logo" /><br>GitHub
